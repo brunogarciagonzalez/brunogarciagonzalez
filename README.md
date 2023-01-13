@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently working at [First Round Capital](https://github.com/FirstRoundCapital)
 
